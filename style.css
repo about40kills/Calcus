@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+.calculator{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.gray-button{
+    background-color: rgb(57, 55, 55);
+    color: white;
+}
+.orange-button{
+    background-color: rgb(185, 124, 39);
+}
+.calculator-button{
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    border: none;
+    font-size: 26px;
+    margin: 5px;
+    cursor: pointer;
+}
+.clear-button{
+    font-size: 15px;
+}
